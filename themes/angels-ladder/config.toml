@@ -1,0 +1,12 @@
+baseurl = "http://zjtomoon.com/"
+languageCode = "ja"
+title = "ZJTOMOON.COM"
+disqusShortname = "zjtomoon"
+
+[Params]
+subtitle = "My Tech Blog"
+email = "zjtomoon@outlook.com"
+github = "https://github.com/zjtomoon"
+profile = "/images/profile.png"
+copyright = "Written by Zjtomoon"
+analytics = ""
