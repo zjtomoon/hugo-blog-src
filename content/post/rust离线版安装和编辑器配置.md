@@ -8,26 +8,26 @@ draft: false
 
 + 1、解压离线包
 
-  ```bash
+```bash
   tar -zxvf rust-1.34.2-x86_64-unknown-linux-gnu.tar.gz -C ~/sdks
-  ```
+```
 
   
 
 + 2、进入解压包执行.install.sh
 
-  ```bash
+```bash
   sudo ./install.sh
-  ```
+```
 
   
 
 + 3、验证安装是否成功
 
-  ```bash
+```bash
   rustc --version
   cargo --version
-  ```
+```
 
   
 
@@ -75,9 +75,9 @@ cp my-emacs-config/init.el ~/.emacs.d
 
 + 3、打开emacs自动加载插件，加载完毕后执行emacs命令
 
-  ```emacs
-  M-x package-install ret
+```bash
+	M-x package-install ret
   	rust-mode ret
-  ```
+```
 
   

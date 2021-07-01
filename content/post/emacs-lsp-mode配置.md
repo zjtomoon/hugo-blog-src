@@ -26,3 +26,9 @@ sudo apt install clangd clang
 
 
 
+## nim language server
+
+```bash
+nimble install nimlsp
+```
+
