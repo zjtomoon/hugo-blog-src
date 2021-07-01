@@ -6,7 +6,7 @@ draft: false
 
 ## go-mode
 
-```shell
+```bash
 go env -w GOPROXY=https://goproxy.io,direct 
 go get golang.org/x/tools/gopls@latest
 ```
@@ -14,13 +14,13 @@ go get golang.org/x/tools/gopls@latest
 
 ## python-mode
 
-```shell
+```bash
 sudo pip3 install python-language-server
 ```
 
 ## C/C++-mode
 
-```shell
+```bash
 sudo apt install clangd clang
 ```
 
