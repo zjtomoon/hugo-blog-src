@@ -1,7 +1,7 @@
 ---
 title: "Ssh Key生成和导入"
 date: 2021-06-30T16:35:56+08:00
-draft: true
+draft: false
 ---
 
 # ssh-key生成并导入github的方法
