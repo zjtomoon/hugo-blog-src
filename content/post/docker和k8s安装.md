@@ -69,13 +69,16 @@ curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stabl
 
 ## 安装kubectl
 
-​```bash
+```bash
 sudo install -o root -g root -m 0755 kubectl /usr/local/bin/kubectl
+
 ```
+
+```bash
 
 ## 验证安装
 
-```bash
+​```bash
 kubectl version --client
 ```
 
