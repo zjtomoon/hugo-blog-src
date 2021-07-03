@@ -6,7 +6,7 @@ draft: false
 
 # 创建对外网开放的mysql用户
 
-```mysql
+```sql
 create user 'tom' @ '%' identified by '123';
 grant all privileges on *.* to 'tom'@'%' identified by '123';
 FLUSH PRIVILEGES;
