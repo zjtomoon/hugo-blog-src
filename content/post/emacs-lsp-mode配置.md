@@ -41,3 +41,9 @@ emacs ~/.bashrc
 export RUST_SRC_PATH=/home/alex/software/rustc-1.34.2-src/src
 ```
 
+# cmake-mode
+
+```bash
+sudo pip install cmake-language-server
+```
+
