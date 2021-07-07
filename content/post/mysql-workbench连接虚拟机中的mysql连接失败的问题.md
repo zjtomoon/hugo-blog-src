@@ -1,6 +1,6 @@
 ---
-title: "Datagrip连接虚拟机中的mysql连接失败的问题"
-date: 2021-07-03T20:50:16+08:00
+title: "Mysql Workbench连接虚拟机中的mysql连接失败的问题"
+date: 2021-07-07T11:23:33+08:00
 draft: false
 ---
 
