@@ -15,7 +15,7 @@ go get golang.org/x/tools/gopls@latest
 ## python-mode
 
 ```bash
-sudo pip3 install python-language-server
+sudo pip3 install python-lsp-server
 ```
 
 ## C/C++-mode
