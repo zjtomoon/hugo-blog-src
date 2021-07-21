@@ -12,21 +12,16 @@ go get golang.org/x/tools/gopls@latest
 ```
 
 
+
 ## python-mode
 
 ```bash
 sudo pip3 install python-lsp-server
 ```
 
-## C/C++-mode
-
-```bash
-sudo apt install clangd clang
-```
 
 
-
-# shell-mode
+## shell-mode
 
 ```bash
 npm --registry https://registry.npm.taobao.org i -g bash-language-server
@@ -34,16 +29,10 @@ npm --registry https://registry.npm.taobao.org i -g bash-language-server
 
 
 
-# rust-mode
+## rust-mode
 
 ```bash
 emacs ~/.bashrc
 export RUST_SRC_PATH=/home/alex/software/rustc-1.34.2-src/src
-```
-
-# cmake-mode
-
-```bash
-sudo pip install cmake-language-server
 ```
 
