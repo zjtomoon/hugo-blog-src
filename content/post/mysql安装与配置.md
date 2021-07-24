@@ -6,9 +6,26 @@ draft: false
 
 ## ubuntu安装
 
-安装sudo apt install mariadb-client mariadb-server查看配置sudo vim /etc/mysql/
-debian.cnf进入root数据库sudo mysql 输入系统root密码进入my
-sql root用户数据库
+```bash
+#安装
+sudo apt install mariadb-client mariadb-server
+
+```
+
+## centos7 安装
+
+```bash
+#安装
+sudo yum install mariadb-client mariadb-server
+#执行如下命令初始化数据库 设置root密码等信息
+mysql_secure_installation
+#关闭防火墙，使得外网可以访问数据库
+sudo systemctl stop firewalld
+#(optional)
+#sudo systemctl disable firewalld
+```
+
+
 
 ## 添加用户
 
