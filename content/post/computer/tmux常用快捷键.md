@@ -84,5 +84,5 @@ c-b "
 
 如图：
 
-![tmux](pictures/tmux.png?raw=true)
+![tmux.png](https://markdown-pngs.oss-cn-shanghai.aliyuncs.com/my-blog-imgs/tmux.png?versionId=CAEQGBiBgMCJ7NmK1xciIGYxYjQ0ZGY1OGVlZjQ4YjJhMGM4MmFjZTUyMmI4YjMw)
 
