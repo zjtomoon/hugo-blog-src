@@ -82,5 +82,7 @@ c-b %
 c-b "
 ```
 
-如图：![tmux](pictures/tmux.png)
+如图：
+
+![tmux](pictures/tmux.png)
 
