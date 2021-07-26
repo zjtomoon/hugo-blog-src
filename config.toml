@@ -10,3 +10,8 @@ github = "https://github.com/zjtomoon"
 profile = "/images/profile.png"
 copyright = "Written by Zjtomoon"
 analytics = ""
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+series = "series"

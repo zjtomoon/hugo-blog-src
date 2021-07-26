@@ -2,6 +2,10 @@
 title: "Emacs Lsp Mode配置"
 date: 2021-06-30T14:27:53+08:00
 draft: false
+tags : [ "emacs", "lsp-mode" ]
+categories : [ "开发环境配置" ]
+series : [ "计算机" ]
+
 ---
 
 ## go-mode
