@@ -84,5 +84,5 @@ c-b "
 
 如图：
 
-![tmux](pictures/tmux.png)
+![tmux](pictures/tmux.png?raw=true)
 
