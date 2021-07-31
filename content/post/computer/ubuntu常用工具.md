@@ -30,5 +30,13 @@ draft: false
   
   ```
 
++ 进程查看工具htop
+
+  ```bash
+  $ sudo apt-get install htop
+  ```
+
   
+
++ 
 
