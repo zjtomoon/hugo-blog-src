@@ -22,7 +22,7 @@ draft: false
 
 + 电子书书架：calibre
 
-+ 数据库工具：mycli
++ 数据库工具：mysql-workbench
 
   ```bash
   #安装方法
