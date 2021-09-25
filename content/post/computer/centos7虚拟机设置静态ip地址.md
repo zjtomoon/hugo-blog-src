@@ -1,7 +1,7 @@
 ---
 title: "Centos7虚拟机设置静态ip地址"
 date: 2021-09-09T15:32:43+08:00
-draft: true
+draft: false
 ---
 
 

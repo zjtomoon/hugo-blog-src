@@ -14,6 +14,8 @@ sudo apt-get install build-essential
 
 ```bash
 sudo apt-get build-dep emacs24
+#centos7
+sudo yum-builddep emacs
 ```
 
 # 解压emacs源码包
