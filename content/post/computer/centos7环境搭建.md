@@ -11,3 +11,9 @@ yum -y install epel-release.noarch
 yum -y install htop
 ```
 
+## 安装vcpkg依赖
+
+```bash
+ yum install perl-ExtUtils-MakeMaker package
+```
+
