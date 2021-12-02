@@ -29,9 +29,18 @@ draft: false
   # 不声明prefix则默认覆盖安装
   ```
 
+
+
+
++ 3、下载必要组件的源码
+
+  ```bash
+  ./contrib/download_prerequisites
+  ```
+
   
 
-+ 3、执行编译和安装
++ 4、执行编译和安装
 
   ```bash
   make 
